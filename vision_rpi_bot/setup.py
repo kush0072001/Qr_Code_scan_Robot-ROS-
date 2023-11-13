@@ -29,7 +29,6 @@ setup(
                 'publisher_node = vision_rpi_bot.publisher:main',
                 'subscriber_node = vision_rpi_bot.subscriber:main',
                 'qr_maze_solve_node = vision_rpi_bot.qr_maze_drive:main',
-                'line_following_node = vision_rpi_bot.line_following:main',
         ],
     },
 )
